@@ -4,7 +4,7 @@
 
     <groupId>com.paulweider</groupId>
     <artifactId>test-maven2</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.0-SNAPSHOT</version>
     <modules>
         <module>data-visualizer</module>
         <module>data-logic-process</module>
@@ -15,7 +15,6 @@
         <connection>scm:git:git@github.com:PaulWeider/test-maven.git</connection>
         <developerConnection>scm:git:git@github.com:PaulWeider/test-maven.git</developerConnection>
         <url>https://github.com/PaulWeider/test-maven.git</url>
-      <tag>test-maven2-1.0.0</tag>
   </scm>
 
     <properties>
