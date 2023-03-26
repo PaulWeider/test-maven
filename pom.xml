@@ -6,7 +6,7 @@
 
     <groupId>com.paulweider</groupId>
     <artifactId>test-maven2</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.0-SNAPSHOT</version>
     <modules>
         <module>data-visualizer</module>
         <module>data-logic-process</module>
