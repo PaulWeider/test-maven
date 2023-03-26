@@ -138,8 +138,8 @@
 
     <distributionManagement>
         <repository>
-            <id>github2</id>
-            <url>https://github.com/PaulWeider/test-maven</url>
+            <id>github</id>
+            <url>https://maven.pkg.github.com/PaulWeider/studapi_project/</url>
         </repository>
     </distributionManagement>
 
